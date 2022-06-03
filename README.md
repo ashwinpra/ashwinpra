@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashwinpra
-- 👀 I’m interested in Web Development, Data Science and Artifical Intelligence  
+- 👀 I’m interested in Web Development, Data Science and Artifical Intelligence (still learning!)
 - 🌱 I’m currently learning Computer Science and Engineering at the Indian Institute of Technology (IIT) Kharagpur
 - 👨🏽‍💻 Check my portfolio out at https://ashwinpra.github.io !
 - 📫 E-mail: ashprasanth2003@gmail.com
