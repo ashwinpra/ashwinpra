@@ -5,11 +5,11 @@
 - 📫 E-mail: ashprasanth2003@gmail.com
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashwinpra&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashwinpra&show_icons=true&theme=darcula" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinpra&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinpra&layout=compact&theme=darcula" />
 </p>
 
 Statistics displayed using https://github.com/anuraghazra/github-readme-stats
