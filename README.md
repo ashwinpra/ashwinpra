@@ -12,6 +12,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinpra&layout=compact&theme=darcula" />
 </p>
 
+![](https://komarev.com/ghpvc/?username=ashwinpra&color=orange)
+
+
 Statistics displayed using https://github.com/anuraghazra/github-readme-stats
 
 
