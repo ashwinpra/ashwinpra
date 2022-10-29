@@ -5,17 +5,15 @@
 - 📫 E-mail: ashprasanth2003@gmail.com
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashwinpra&show_icons=true&theme=darcula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashwinpra&show_icons=true&theme=dark" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinpra&layout=compact&theme=darcula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinpra&layout=compact&theme=dark" />
 </p>
 
-![](https://komarev.com/ghpvc/?username=ashwinpra&color=orange)
+![](https://komarev.com/ghpvc/?username=ashwinpra&color=blue)
 
-
-Statistics displayed using https://github.com/anuraghazra/github-readme-stats
 
 
 <!---
