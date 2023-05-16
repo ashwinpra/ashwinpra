@@ -1,20 +1,21 @@
-- 👋 Hi, I’m @ashwinpra
-- 👀 I’m interested in Deep Learning and Reinforcement Learning
-- 🌱 I’m currently learning Computer Science and Engineering at the Indian Institute of Technology (IIT) Kharagpur
-- 👨🏽‍💻 Check my portfolio out at https://ashwinpra.github.io 
-- 📫 E-mail: ashprasanth2003@gmail.com
+<h1 align="center">Hello there</h1> 
+<h3 align="center">General Kenobi</h3>
 
 --- 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashwinpra&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashwinpra&theme=gotham&hide_border=true&include_all_commits=false&count_private=false" />
 </p>
-<P align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinpra&layout=compact&theme=transparent" />
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinpra&theme=gotham&hide_border=true" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinpra&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
+<p align="center">
+  <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
 
-<!---
-ashwinpra/ashwinpra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-- 💞️ I’m looking to collaborate on -
---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
