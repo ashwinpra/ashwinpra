@@ -1,5 +1,6 @@
 <h1 align="center">Hello there</h1> 
-<h3 align="center">General Kenobi</h3>
+<img src="./banner3.jpg"></img>
+<h3 align="center">...General Kenobi</h3>
 
 --- 
 <p align="center">
