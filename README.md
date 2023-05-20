@@ -4,13 +4,13 @@
 
 --- 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashwinpra&theme=gotham&hide_border=true&include_all_commits=false&count_private=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashwinpra&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinpra&theme=gotham&hide_border=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinpra&theme=dark&hide_border=true" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinpra&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinpra&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
 <p align="center">
